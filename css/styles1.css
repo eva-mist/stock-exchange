@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+.wrapper {
+    background-color: #fff;
+    max-width: 500px;
+    margin: 30px auto;
+    border-radius: 14px;
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+h4:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+input {
+    line-height: 2rem;
+    margin-bottom: 25px;
+    border-width: 1px;
+    width: 95%;
+}
+
+input:hover {
+    border-color: #f39c12;
+}
+
+button {
+    background-color: #f39c12;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    font-size: 15px;
+}
